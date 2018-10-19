@@ -137,6 +137,10 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     vndk-sp
 
+# Wallpapers
+PRODUCT_PACKAGES += \
+    WallpapersBReel2018
+
 # WiFi Display
 PRODUCT_PACKAGES += \
     libnl
